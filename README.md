@@ -14,3 +14,9 @@ javascript stars:>100
 
 #### 图标svg制作
 [https://shields.io](https://shields.io)
+
+
+
+### 项目学习基础
+
+[https://github.com/wearehive/project-guidelines/blob/master/README-zh.md](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
